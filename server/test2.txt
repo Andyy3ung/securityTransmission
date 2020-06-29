@@ -1,0 +1,4 @@
+Hi
+I'm a test file2.
+I am not encrypted because I've been decrypt.
+I am integrated too.
