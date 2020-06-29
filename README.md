@@ -3,6 +3,6 @@
 基于python3  
 采用RSA公钥加密算法和DES对称加密算法  
 
-python3 server.py
-python3 client.py
-python3 guiclient.py
+python3 server.py  
+python3 client.py  
+python3 guiclient.py  
